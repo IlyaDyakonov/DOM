@@ -1,4 +1,3 @@
-![CI](https://github.com/IlyaDyakonov/DOM/actions/workflows/web.yml/badge.svg)
 [![Build status](https://ci.appveyor.com/api/projects/status/xlterl0ggdci1gnb?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/dom)
 
 
