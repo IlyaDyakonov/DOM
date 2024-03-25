@@ -1,3 +1,5 @@
+![CI](https://github.com/IlyaDyakonov/DOM/actions/workflows/web.yml/badge.svg)
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
