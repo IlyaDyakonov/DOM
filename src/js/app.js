@@ -8,7 +8,7 @@ class Game {
     for (let i = 0; i < this.size; i++) {
       const cell = document.createElement('div');
       cell.classList.add('game');
-      // cell.id = `hole-${i}`;
+      cell.id = `hole-${i}`;
       cellSize.appendChild(cell);
     }
     this.random();
